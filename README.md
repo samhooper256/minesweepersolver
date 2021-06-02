@@ -22,4 +22,4 @@ A larger and more difficult board:
 ![biggame](https://user-images.githubusercontent.com/60260374/120555027-147ff780-c3c0-11eb-85d3-c58fa4a9ce47.PNG)
 
 
-The app has two windows: one has the minesweeper game, where the user can left click on a tile to uncover it and right click to place (or remove) a flag, and the other displays an identical board, but where the probabilities of each tile being a mine, as deduced solely from information visible to the player, are shown. The user can create a new board of arbitrary size and of arbitrary difficulty with the button in the top right. The game shows the number of flags remaining in the bottom left corner.
+The app has two windows: one has the minesweeper game, where the user can left click on a tile to uncover it and right click to place (or remove) a flag, and the other displays an identical board, but where the probabilities of each tile being safe, as deduced solely from information visible to the player, are shown. The user can create a new board of arbitrary size and of arbitrary difficulty with the button in the top right. The game shows the number of flags remaining in the bottom left corner.
